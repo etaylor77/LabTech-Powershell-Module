@@ -1,6 +1,8 @@
-# LabTech-Powershell-Module
-This is an attempt to create a comprehensive LT PoSH module. 
-To import this module in your scripts you can run:
->(new-object Net.WebClient).DownloadString("https://goo.gl/tb38WQ") | iex
 
-For more information see: http://labtechconsulting.com/labtech-agent-powershell-module/
+Agent Deployments and Agent issues the Powershell Way!!!
+
+Orignal Credit (Concept): https://github.com/LabtechConsulting/LabTech-Powershell-Module
+
+Take from that, I am starting to modify this to work on the network probe aspect. 
+
+More to come Soon(TM)
